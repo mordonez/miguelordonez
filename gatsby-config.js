@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `El Blog de Miguel Ordoñez`,
+    title: `miguelordonez.com`,
     author: {
       name: `Miguel Ordoñez`,
-      summary: `que vive y trabaja en Barcelona desarrollando cosas.`,
+      summary: `vive y trabaja en Barcelona creando cosas ❤️ .`,
     },
     description: `Mi blog personal de las cosas que me interesan y algo mas.`,
     siteUrl: `https://www.miguelordonez.com/`,
