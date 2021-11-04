@@ -9,6 +9,7 @@ module.exports = {
     siteUrl: `https://www.miguelordonez.com/`,
     social: {
       twitter: `miguelordonez`,
+      linkedin: `miguelordonezsanchez`,
     },
   },
   plugins: [
