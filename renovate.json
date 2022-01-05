@@ -1,4 +1,5 @@
 {
+  "commitBody": "[skip netlify]",
   "extends": [
     "config:base"
   ]
